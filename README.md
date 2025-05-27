@@ -148,7 +148,8 @@ Publish the website in the given URL.
 </html>
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d381258e-eb49-45db-b923-ab61748030d2)
+![Screenshot 2025-05-27 112748](https://github.com/user-attachments/assets/b544f495-6c37-4d4a-82ad-d5a874316629)
+
 ![Screenshot 2025-05-27 112843](https://github.com/user-attachments/assets/65d67f0b-b8b5-4558-9f49-b8b3861f9e4a)
 
 
